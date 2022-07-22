@@ -65,7 +65,7 @@
       "categoryId": "books",
       "name": "LiveLib",
       "image": "https://raw.githubusercontent.com/amatviychuk/is-it-images/main/livelib/liveLib.png",
-      "text": "російський книжний рекомендаційний сервіс, належить російській компанії «ЛитРес»\n\n\n",
+      "text": "російський книжний рекомендаційний сервіс, належить російській компанії «ЛитРес»",
       "gallery": []
     },
     {
@@ -89,7 +89,7 @@
       "categoryId": "2books",
       "name": "eBoox",
       "image": "https://raw.githubusercontent.com/amatviychuk/is-it-images/main/2books/2books.png",
-      "text": "російський застосунок \n\n\n\n\n",
+      "text": "російський застосунок",
       "gallery": []
     },
     {
@@ -113,7 +113,7 @@
       "categoryId": "study",
       "name": "LinguaLeo",
       "image": "https://raw.githubusercontent.com/amatviychuk/is-it-images/main/linguaLeo/lingualeo.png",
-      "text": "\n\n\n\n\n",
+      "text": "",
       "gallery": []
     },
     {
