@@ -33,24 +33,30 @@
       "categoryId": "games",
       "name": "Homescapes",
       "image": "https://raw.githubusercontent.com/amatviychuk/is-it-images/main/homescapes/homescapes.png",
-      "text": "Мобільна гра для IOS і Android, розроблена російською студією Playrix \n\nЗавантажень: 1 000 000 +",
-      "gallery": []
+      "text": "Мобільна гра для IOS і Android, розроблена російською студією Playrix \nЗавантажень: 1 000 000 + \n",
+      "gallery": [],
+      "date":20220901,
+      "popularity": 9
     },
     {
       "id": "war-thunder",
       "categoryId": "games",
       "name": "WarThunder",
       "image": "https://raw.githubusercontent.com/amatviychuk/is-it-images/main/warThunder/warThunder.png",
-      "text": "Гра, розроблена студією Gaijin Entertainment. \n\nПринагідність компанії постійно стає об’єктом війни правок на Вікіпедії. Кожного разу, коли хтось змінює її на російську, приходить сам гендиректор копанії Антон Юдинцев, і змінює russian на hungarian. \n\nАле ми то знаємо, що окрім угорської реєстрації для податкових офшорів, розробкою ігр займається ООО «Улитка», заснована братом Антона Юдинцева — Кирилом. За даними росстату, лише за 2021 рік виручка компанії склала 655.8 млн ₽ (9 млн долларів). ЇЇ офіси розташовані в Москві, Санкт-Петербурзі та Воронежі.",
-      "gallery": []
+      "text": "Гра, розроблена студією Gaijin Entertainment. \nПринагідність компанії постійно стає об’єктом війни правок на Вікіпедії. Кожного разу, коли хтось змінює її на російську, приходить сам гендиректор копанії Антон Юдинцев, і змінює russian на hungarian. \nАле ми то знаємо, що окрім угорської реєстрації для податкових офшорів, розробкою ігр займається ООО «Улитка», заснована братом Антона Юдинцева — Кирилом. За даними росстату, лише за 2021 рік виручка компанії склала 655.8 млн ₽ (9 млн долларів). ЇЇ офіси розташовані в Москві, Санкт-Петербурзі та Воронежі.",
+      "gallery": [],
+      "date":20220901,
+      "popularity": 9
     },
     {
       "id": "aviasales",
       "categoryId": "services",
       "name": "Aviasales",
       "image": "https://raw.githubusercontent.com/amatviychuk/is-it-images/main/aviasales/aviasales.png",
-      "text": "російський пошуковий сервіс авіаквитків.\n\n Компанія зареєстрована у Гонконзі, проте офіси розробки знаходяться у Москві та Санкт-Петербурзі.\n\n Існує аналогічний шотландський сервіс Skyscanner.",
-      "gallery": []
+      "text": "російський пошуковий сервіс авіаквитків. Компанія зареєстрована у Гонконзі, проте офіси розробки знаходяться у Москві та Санкт-Петербурзі.\n Існує аналогічний шотландський сервіс Skyscanner.",
+      "gallery": [],
+      "date":20220901,
+      "popularity": 9
     },
     {
       "id": "litres",
@@ -58,7 +64,9 @@
       "name": "ЛитРес",
       "image": "https://raw.githubusercontent.com/amatviychuk/is-it-images/main/litres/litres.png",
       "text": "російська компанія з поширення електронних та аудіокниг, має одноіменний додаток у App Store та Google Play. Також володіє сервісами MyBook та LiveLib.",
-      "gallery": []
+      "gallery": [],
+      "date":20220901,
+      "popularity": 5
     },
     {
       "id": "livelib",
@@ -66,7 +74,9 @@
       "name": "LiveLib",
       "image": "https://raw.githubusercontent.com/amatviychuk/is-it-images/main/livelib/liveLib.png",
       "text": "російський книжний рекомендаційний сервіс, належить російській компанії «ЛитРес»",
-      "gallery": []
+      "gallery": [],
+      "date":20220901,
+      "popularity": 4
     },
     {
       "id": "mybook",
@@ -74,7 +84,9 @@
       "name": "MyBook",
       "image": "https://raw.githubusercontent.com/amatviychuk/is-it-images/main/myBook/mybook.png",
       "text": "російський книжний застосунок, належить російській компанії ЛитРес. #2 українського App Store.",
-      "gallery": []
+      "gallery": [],
+      "date":20220901,
+      "popularity": 5
     },
     {
       "id": "eboox",
@@ -82,31 +94,39 @@
       "name": "eBoox",
       "image": "https://raw.githubusercontent.com/amatviychuk/is-it-images/main/eBoox/eboox.png",
       "text": "Застосунок для для читання книг, перебуває у топі українського App Store. Зареєстровано на російську компанію «ООО Редит».",
-      "gallery": []
+      "gallery": [],
+      "date":20220901,
+      "popularity": 2
     },
     {
       "id": "2books",
       "categoryId": "2books",
-      "name": "eBoox",
+      "name": "2books",
       "image": "https://raw.githubusercontent.com/amatviychuk/is-it-images/main/2books/2books.png",
       "text": "російський застосунок",
-      "gallery": []
+      "gallery": [],
+      "date":20220901,
+      "popularity": 2
     },
     {
       "id": "2gis",
       "categoryId": "services",
       "name": "2GIS",
       "image": "https://raw.githubusercontent.com/amatviychuk/is-it-images/main/2gis/2gis.png",
-      "text": "російський картографічний сервіс, посідає 6 місце у топі картографічних застосунків українського App store. \n\n72% компанії належить підсанкційному «Сбербанку» — державному банку рф. \n\nНаряду з російським сайтом 2gis.ru має українську версію 2gis.ua. \nНе виключено, що дані українських користувачів можуть використовуватись урядом та спецслужбами рф згідно з законами №374-ФЗ та №375-ФЗ від 06.06.2016, які прямо зобов’язують російські компанії надавати будь-яку персональну інформацію за вимогою фсб без рішення суду.",
-      "gallery": []
+      "text": "російський картографічний сервіс, посідає 6 місце у топі картографічних застосунків українського App store. \n72% компанії належить підсанкційному «Сбербанку» — державному банку рф. \nНаряду з російським сайтом 2gis.ru має українську версію 2gis.ua. \nНе виключено, що дані українських користувачів можуть використовуватись урядом та спецслужбами рф згідно з законами №374-ФЗ та №375-ФЗ від 06.06.2016, які прямо зобов’язують російські компанії надавати будь-яку персональну інформацію за вимогою фсб без рішення суду.",
+      "gallery": [],
+      "date":20220901,
+      "popularity": 9
     },
     {
       "id": "htmlAcademy",
       "categoryId": "study",
       "name": "HTML Academy",
       "image": "https://raw.githubusercontent.com/amatviychuk/is-it-images/main/htmlAcademy/htmlAcademy.png",
-      "text": "російський освітній сервіс, спеціалізується на технологіях веб-програмування. \n\nросійська частина бізнесу зареєстрована у 2012 на ООО «Интерактивные обучающие технологии», якою володіє Александр Першин. Інша частина для податкових офшорів зареєстрована у 2019 в Талліні на «HTML Academu OU».\n\nСайти: htmlacademy.ru, htmlacademy.org \n\nСервіси для заміни: міжнародній освітній сервіс Codecademy",
-      "gallery": []
+      "text": "російський освітній сервіс, спеціалізується на технологіях веб-програмування. \nросійська частина бізнесу зареєстрована у 2012 на ООО «Интерактивные обучающие технологии», якою володіє Александр Першин. Інша частина для податкових офшорів зареєстрована у 2019 в Талліні на «HTML Academu OU».\nСайти htmlacademy.ru htmlacademy.org \nАналоги: міжнародній освітній сервіс Codecademy",
+      "gallery": [],
+      "date":20220901,
+      "popularity": 7
     }, 
     {
       "id": "lingualeo",
@@ -114,39 +134,118 @@
       "name": "LinguaLeo",
       "image": "https://raw.githubusercontent.com/amatviychuk/is-it-images/main/linguaLeo/lingualeo.png",
       "text": "",
-      "gallery": []
+      "gallery": [],
+      "date":20220901,
+      "popularity": 9
     },
     {
       "id": "maps-me",
       "categoryId": "services",
       "name": "Maps.me",
       "image": "https://raw.githubusercontent.com/amatviychuk/is-it-images/main/maps.me/maps.me.png",
-      "text": "російський картографічний сервіс. \n\nДо 2020 року належав mail.ru, якою володіє російський підсканкційний олігарх Алішер Усманов. Після цього був проданий компанії daegu limited, якою володіє parity.com, заснована громадянами росії Віктором Мангазеєвим та Алексом Гребневим.",
-      "gallery": []
+      "text": "російський картографічний сервіс. До 2020 року належав mail.ru, якою володіє російський підсканкційний олігарх Алішер Усманов. Після цього був проданий компанії daegu limited, якою володіє parity.com, заснована громадянами росії Віктором Мангазеєвим та Алексом Гребневим.",
+      "gallery": [],
+      "date":20220901,
+      "popularity": 9
     },
     {
       "id": "skyeng",
       "categoryId": "study",
       "name": "SkyEng",
       "image": "https://raw.githubusercontent.com/amatviychuk/is-it-images/main/skyeng/skyeng.png",
-      "text": "російський серсіс вивчення англійської мови, посідає 18 місце у топі освітніх застосунків українського App store. \n\nОцінка skyeng — $165 млн, що робить її одним з найбільших російських інтернет-компаній, і, відповідно, одним з найбільших платників податків. Офіс розробки знаходиться у Москві. \n\nCайти: skyeng.ru, skyengschool.com",
-      "gallery": []
+      "text": "російський серсіс вивчення англійської мови, посідає 18 місце у топі освітніх застосунків українського App store. \nОцінка skyeng — $165 млн, що робить її одним з найбільших російських інтернет-компаній, і, відповідно, одним з найбільших платників податків. Офіс розробки знаходиться у Москві. \nCайти skyeng.ru, skyengschool.com",
+      "gallery": [],
+      "date":20220901,
+      "popularity": 9
     },
     {
       "id": "sudoku",
       "categoryId": "apps",
       "name": "Sudoku",
       "image": "https://raw.githubusercontent.com/amatviychuk/is-it-images/main/sudoku/sudoku.png",
-      "text": "Компанія EasyBrain, що розробляє додаток Sudoku та володіє сайтом sudoku.com представлена у Білорусі копанією ООО «ИЗИБРЭЙН» та кіпрською компанією \n\nУ 2021 компанія була продана —-, але станом на липень 2022 активно продовжує найм в мінський офіс. \n\nВ оголошеннях про вакансії зазначено, що для роботи в кіпрському офісі Вам обов’язково  треба вільно володіти російською, знати англійську на рівні середній+, а от грецьку — буде бонусом, але можна і без неї. Ось такі от греки.",
-      "gallery": []
+      "text": "Компанія EasyBrain, що розробляє додаток Sudoku та володіє сайтом sudoku.com представлена у Білорусі копанією ООО «ИЗИБРЭЙН» та кіпрською компанією\nУ 2021 компанія була продана —-, але станом на липень 2022 активно продовжує найм в мінський офіс. \nВ оголошеннях про вакансії зазначено, що для роботи в кіпрському офісі Вам обов’язково  треба вільно володіти російською, знати англійську на рівні середній+, а от грецьку — буде бонусом, але можна і без неї. Ось такі от греки.",
+      "gallery": [],
+      "date":20220901,
+      "popularity": 9
     },
     {
       "id": "tappsk",
       "categoryId": "apps",
       "name": "Tappsk",
       "image": "https://raw.githubusercontent.com/amatviychuk/is-it-images/main/tappsk/tappsk.png",
-      "text": "Мобільний додаток планування справ. \n\nСтворений петербурзьким розробником Матвеем Кондаковим.",
-      "gallery": []
-    }   
+      "text": "Мобільний додаток планування справ. Створений петербурзьким розробником Матвеем Кондаковим.",
+      "gallery": [],
+      "date":20220901,
+      "popularity": 5
+    }, 
+    {
+      "id": "ivi",
+      "categoryId": "apps",
+      "name": "IVI",
+      "image": "https://raw.githubusercontent.com/amatviychuk/is-it-images/main/ivi/ivi.png",
+      "text": "",
+      "gallery": [],
+      "date":20220915,
+      "popularity": 7
+    }, 
+    {
+      "id": "Stakanchyk",
+      "categoryId": "apps",
+      "name": "Стаканчик",
+      "image": "https://raw.githubusercontent.com/amatviychuk/is-it-images/main/stakanchyk/stakanchyk.png",
+      "text": "",
+      "gallery": [],
+      "date":20220915,
+      "popularity": 5
+    }, 
+    {
+      "id": "sandbox",
+      "categoryId": "apps",
+      "name": "Sandbox",
+      "image": "https://raw.githubusercontent.com/amatviychuk/is-it-images/main/sandbox/sandbox.png",
+      "text": "",
+      "gallery": [],
+      "date":20220915,
+      "popularity": 6
+    },
+    {
+      "id": "premier",
+      "categoryId": "apps",
+      "name": "Premier",
+      "image": "https://raw.githubusercontent.com/amatviychuk/is-it-images/main/premier/premier.png",
+      "text": "",
+      "gallery": [],
+      "date":20220915,
+      "popularity": 7
+    },
+    {
+      "id": "moretv",
+      "categoryId": "apps",
+      "name": "More.tv",
+      "image": "https://raw.githubusercontent.com/amatviychuk/is-it-images/main/moretv/moretv.png",
+      "text": "",
+      "gallery": [],
+      "date":20220915,
+      "popularity": 6
+    },
+    {
+      "id": "hole",
+      "categoryId": "apps",
+      "name": "Hole",
+      "image": "https://raw.githubusercontent.com/amatviychuk/is-it-images/main/hole/hole.png",
+      "text": "",
+      "gallery": [],
+      "date":20220915,
+      "popularity": 5
+    },
+    {
+      "id": "amediateka",
+      "category":"Amediateka",
+      "image": "https://raw.githubusercontent.com/amatviychuk/is-it-images/main/amediateka/amediateka.png",
+      "text": "",
+      "gallery": [],
+      "date":20220915,
+      "popularity": 4
+    }
   ]
 }
