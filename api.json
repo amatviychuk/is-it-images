@@ -257,6 +257,6 @@
   "notifications": [
     {
               "date": 1660998432719,
-              "text": "This is a custom text with a link to (Онлайн-кінотеатри)[https://6300e4cb99a3e500082c2131--visionary-kitten-e9c757.netlify.app/#/categories/cinema/products]. Hello, world!\n\nThe next paragraph is here with second (link)[https://www.is-it-russian.com]."
+              "text": "Додано нову категорію (Онлайн-кінотеатри)[https://is-it-russian.com/#/categories/cinema/products]."
             }
 ]}
