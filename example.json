@@ -1,0 +1,12 @@
+[
+  {
+    "type": "component",
+    "duration": 3000,
+    "component": "<div class='gradient-background' style={{}}>hey there</div>"
+  },
+  {
+    "type": "component",
+    "duration": 3000,
+    "component": " <style> .slide1-photo{background-color:red;z-index:10;} .slide1-photo:hover{background-color:white;}</style><div class='gradient-background'><div class='slide1-photo'></div><div style=`marginTop: 30, fontSize: 24`></div></div>"
+  }
+]
